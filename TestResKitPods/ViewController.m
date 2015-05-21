@@ -7,6 +7,7 @@
 //
 
 #import "ViewController.h"
+#import <RestKit.h>
 
 @interface ViewController ()
 
